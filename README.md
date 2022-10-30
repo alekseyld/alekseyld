@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @alekseyld
+- 👀 I’m interested in Android, Kotlin, Java
+- 🌱 I’m currently learning Java Spring
+- 📫 How to reach me Telegram @alekseyld
